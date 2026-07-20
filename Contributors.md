@@ -1,6 +1,6 @@
 # Contributors
 - [Aditya Malviya](https://github.com/aditya-malviya-dev)
-- [KingPlein] (https://github.com/KingPlein)
+- [KingPlein](https://github.com/KingPlein)
 - [Kashish](https://github.com/Kashish1074)
 - [Vignesh](https://github.com/vigneshsabapathi)
 - [SidGod](https://github.com/starboylive) 
